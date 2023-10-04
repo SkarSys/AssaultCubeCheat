@@ -1,0 +1,62 @@
+﻿  SkarAsCubeCheat v3.cpp
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(32,39): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(32,39): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(50,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(54,36): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(47,60): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(177,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(180,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(183,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(186,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(192,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(195,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(198,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(201,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(208,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(211,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(214,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(217,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(226,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(229,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(232,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(235,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(253,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(274,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(274,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(274,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(274,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(289,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(291,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(293,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(301,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(303,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(305,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(312,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(314,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(316,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(324,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(326,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(328,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(333,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(335,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(337,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(342,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(344,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(346,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(354,44): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(356,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(357,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(363,44): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(365,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(366,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(372,44): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(374,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(375,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(385,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\SkarAsCubeCheat v3.cpp(107,64): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  1 of 100 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SkarAsCubeCheat v3.vcxproj -> D:\ZennyHenny\coding\cheetos\self coded stuff\skar assuault cube v3\SkarAsCubeCheat v3\x64\Release\SkarAsCubeCheat v3.exe
